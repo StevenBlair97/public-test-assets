@@ -1,0 +1,10 @@
+Example public asset base:
+https://YOUR_USERNAME.github.io/REPO_NAME/
+
+Example CSS URL:
+https://YOUR_USERNAME.github.io/REPO_NAME/styles/site.css
+
+Example image URLs:
+https://YOUR_USERNAME.github.io/REPO_NAME/assets/images/bg1.png
+https://YOUR_USERNAME.github.io/REPO_NAME/assets/images/logo-white.png
+https://YOUR_USERNAME.github.io/REPO_NAME/assets/images/logo-black.png
